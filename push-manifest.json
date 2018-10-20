@@ -1,0 +1,30 @@
+{
+  "/": {
+    "src/components/m-app.js": {
+      "type": "script",
+      "weight": 1
+    },
+    "src/views/m-home.js": {
+      "type": "script",
+      "weight": 1
+    },
+    "node_modules/@webcomponents/webcomponentsjs/webcomponents-loader.js": {
+      "type": "script",
+      "weight": 1
+    }
+  },
+  "/home": {
+    "src/components/m-app.js": {
+      "type": "script",
+      "weight": 1
+    },
+    "src/views/m-home.js": {
+      "type": "script",
+      "weight": 1
+    },
+    "node_modules/@webcomponents/webcomponentsjs/webcomponents-loader.js": {
+      "type": "script",
+      "weight": 1
+    }
+  }
+}
